@@ -1,6 +1,6 @@
-# Library Management System
+# Libralite - Library Management System
 
-A modern, full-stack **Library Management System** built with:
+A modern, full-stack **Libralite - Library Management System** built with:
 
 - **React**
 - **Tailwind CSS**
@@ -57,8 +57,8 @@ A modern, full-stack **Library Management System** built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com
-cd library-management
+git clone https://github.com/tahfeezmizan/libra-lite-frontend.git
+cd libra-lite
 ```
 
 ### 2. Install Dependencies
