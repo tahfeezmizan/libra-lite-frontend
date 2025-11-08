@@ -57,7 +57,7 @@ A modern, full-stack **Library Management System** built with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/muhammadranju/library-management.git
+git clone https://github.com
 cd library-management
 ```
 
@@ -141,4 +141,4 @@ interface IBook {
 
 ## 🧠 Author
 
-Built with ❤️ by Md Ranju
+Built with ❤️ by Tahfeez Mizan
